@@ -1,3 +1,3 @@
 name>url
-Sample Pack (NEW)>https://github.com/GrechTech/BabyProjectorDVR/releases/download/TestA/RealSampleVideos.zip
-Test Pack (OLD)>https://github.com/GrechTech/BabyProjectorDVR/releases/download/demo/SampleVideos.zip
+Sample Pack>https://github.com/GrechTech/BabyProjectorDVR/releases/download/TestA/RealSampleVideos.zip
+Test Pack>https://github.com/GrechTech/BabyProjectorDVR/releases/download/demo/SampleVideos.zip
